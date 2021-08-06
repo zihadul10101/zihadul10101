@@ -1,7 +1,6 @@
 ### Hi there, I'm  [Zihadul Islam][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working at [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Django, Microservice, Cloud computing, Software architechture
 - ⚡ Fun fact: I love to Explore the world 
@@ -43,7 +42,7 @@
 <br />
 <img width="550px" alt="Zihadul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/zihadul10101)
 
 
 [programming]: https://www.programming-hero.com/
